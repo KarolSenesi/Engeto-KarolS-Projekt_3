@@ -61,7 +61,7 @@ kde:
 Příklad spuštění:
 python KarolS-Projekt_3.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=3&xnumnuts=3106" "vysledky_Strakonice.csv"
 
-KOMENTÁŘ
+KOMENTÁŘ:
 Předem upozorňuji, že výstupy v souboru CSV bohužel neodpovídají 100%
 zadání. U výsledků za jednotlivé strany se zobrazují hodnoty "v %"
 namísto hodnot "celkem".
